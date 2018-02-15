@@ -1,3 +1,5 @@
+// Roy Son, Feb. 15, 2018
+// The line of code with two slashes in the front resulted in single line comment which did not appear when running the code.
 public class CommentsAndSlashes {
     public static void main(String[] args) {
         // A comment, this is so you can read your program later.
